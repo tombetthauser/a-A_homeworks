@@ -69,6 +69,20 @@ end
 # create a new key-value pair or update the value for a pre-existing key. 
 # It's up to you to check whether a key currently exists!
 
+
+class Map
+
+    def initialize
+        @Map = []
+    end
+
+    
+
+end
+
+
+
+
 # As always, test your code thoroughly to make sure all properties of maps are enforced.
 # Did you find this lesson helpful?
 # No
